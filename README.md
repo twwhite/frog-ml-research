@@ -1,3 +1,5 @@
+![screenshot](https://raw.githubusercontent.com/twwhite/frog-ml-research/refs/heads/main/img/screenshot.png)
+
 Tools used:
 - label-studio
 - YOLO
