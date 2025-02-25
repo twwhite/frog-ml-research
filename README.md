@@ -11,7 +11,9 @@ What's working:
 - Todo: IR night-mode, multi-frog, batch pipeline
 - Work on appropriate frame rates to speed up predictions
 
-
-
-
-
+Project Structure:
+- img/ : Supporting images for documentation
+- models/ : Output models from training
+- pipeline/ : Sequential steps for raw, grouped input video to processed, individual videos
+- tools/ : Command line utils for working with bulk videos
+- yolo/ : Working directory for training including dataset images/videos (.gitignored)
